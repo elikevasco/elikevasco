@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @elikevasco
-- 👀 I’m interested in apre
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Sobre mim
 
-<!---
-elikevasco/elikevasco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, meu nome é @elikevasco
+- 👀 Eu estou interessado em aprender a programar novas linguagens
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
+
